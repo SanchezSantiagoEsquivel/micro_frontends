@@ -20,6 +20,4 @@
 
    Una vez que los servidores estén en funcionamiento, puedes acceder al servicio root a través de la siguiente URL:
 
-   ```bash
-   http://localhost:9000
-   ```
+   [Acceder al servicio root](http://localhost:9000)
